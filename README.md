@@ -1,2 +1,2 @@
-# monsters-rolodex-functional-components
+# monsters-rolodex with Functional Components
 Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)
